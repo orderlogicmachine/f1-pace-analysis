@@ -1,0 +1,11 @@
+,position,positionText,points,wins,Constructor.constructorId,Constructor.url,Constructor.name,Constructor.nationality
+0,1,1,344.5,4,mercedes,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,Mercedes,German
+1,2,2,332.5,8,red_bull,http://en.wikipedia.org/wiki/Red_Bull_Racing,Red Bull,Austrian
+2,3,3,181.5,0,ferrari,http://en.wikipedia.org/wiki/Scuderia_Ferrari,Ferrari,Italian
+3,4,4,170,0,mclaren,http://en.wikipedia.org/wiki/McLaren,McLaren,British
+4,5,5,90,1,alpine,http://en.wikipedia.org/wiki/Alpine_F1_Team,Alpine F1 Team,French
+5,6,6,84,0,alphatauri,http://en.wikipedia.org/wiki/Scuderia_AlphaTauri,AlphaTauri,Italian
+6,7,7,53,0,aston_martin,http://en.wikipedia.org/wiki/Aston_Martin_in_Formula_One,Aston Martin,British
+7,8,8,20,0,williams,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering,Williams,British
+8,9,9,3,0,alfa,http://en.wikipedia.org/wiki/Alfa_Romeo_in_Formula_One,Alfa Romeo,Swiss
+9,10,10,0,0,haas,http://en.wikipedia.org/wiki/Haas_F1_Team,Haas F1 Team,American
