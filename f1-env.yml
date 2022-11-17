@@ -1,10 +1,9 @@
-name: base
+name: f1-env
 channels:
   - defaults
 dependencies:
   - conda
   - python=3.9
-  - python.app
   - conda-env
   - conda-build
   - conda-verify
@@ -15,4 +14,6 @@ dependencies:
   - requests
   - notebook
   - bokeh
+  -pip:
+    - python.app
 prefix: /Users/jddannunzio/opt/anaconda3
