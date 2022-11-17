@@ -14,9 +14,7 @@
 * Clone the project by typing `git clone https://github.com/orderlogicmachine/f1-pace-analysis.git`
 
 #### Create a virtual environment
-* Open Anaconda
-* Launch its command prompt/terminal
-* Select your chosen directory
+* Launch the Anaconda Prompt and use `cd` to change to your chosen directory
 * Create a virtual environment by typing `conda env create -f environment.yml`
 * Activate virtual environment by typing `activate f1-env`
     
@@ -25,5 +23,5 @@
     * With the virtual environment activated, launch jupyter lab
     * Type in the prompt "jupyter lab"
 * A web browser will automatically open with jupyter lab
-    * Open `main.ipynb` in the file explorer
+    * Navigate to `main.ipynb` in the file explorer
     * Run the project by clicking on the double arrow (Restart Kernerl and Run all cells)
