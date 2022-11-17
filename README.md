@@ -12,6 +12,7 @@ This project is intended to visualize and analyze data from the 2021 Italian Gra
 
 This project was built using the following resources:
 * Anaconda/Python
+* Jupyter Notebooks
 * fastf1
 * pandas
 * numpy
