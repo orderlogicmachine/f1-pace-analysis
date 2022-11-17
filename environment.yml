@@ -4,7 +4,6 @@ channels:
 dependencies:
   - conda
   - python=3.9
-  - python.app
   - conda-env
   - conda-build
   - conda-verify
@@ -14,6 +13,7 @@ dependencies:
   - navigator-updater
   - requests
   - notebook
+  - pip
   - pip:
     - fastf1
 prefix: /Users/jddannunzio/opt/anaconda3
