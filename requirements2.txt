@@ -1,0 +1,8 @@
+pandas==1.4.4
+numpy==1.21.5
+notebook==6.4.12
+Markdown==3.3.4
+fastf1==2.3.0
+requests==2.27.1
+matplotlib==3.5.2
+matplotlib-inline==0.1.6
