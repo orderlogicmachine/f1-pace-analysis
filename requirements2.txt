@@ -1,8 +1,0 @@
-pandas
-numpy
-notebook
-Markdown
-fastf1
-requests
-matplotlib
-matplotlib-inline
